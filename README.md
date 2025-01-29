@@ -34,4 +34,7 @@ En este proyecto, exploramos cómo construir un dashboard con Streamlit para un 
     pip install -r requirements.txt
     ```
 
-
+6. Ejecuta el dashboard  
+    ```bash
+    streamlit run app.py
+    ```
